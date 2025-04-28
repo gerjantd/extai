@@ -91,6 +91,6 @@ document_outline: |
   This document contains a collection of questions and answers about lemurs, their evolution, anatomy, behavior, and diet. The information is organized into sections that cover various aspects of lemur biology and ecology.
 document:
   repo: https://github.com/gerjantd/extai/blob/main/qna.yaml
-  commit: <full commit SHA>
+  commit: a5bdb9c5796498d6144d32ebdccc5088c8534d57
   patterns:
     - lemor_wiki.md
