@@ -4,10 +4,10 @@ created_by: Giulia Solinas
 seed_examples:
   - context: |
         Lemurs (and strepsirrhines in general) are considered to be less visually oriented than the higher primates, since they rely so heavily on their sense of smell and pheromone detection. The fovea on the retina, which yields higher visual acuity, is not well-developed. The postorbital septum (or bony closure behind the eye) in haplorrhine primates is thought to stabilize the eye slightly, allowing for the evolution of the fovea. With only a postorbital bar, lemurs have been unable to develop a fovea. Therefore, regardless of their activity pattern (nocturnal, cathemeral, or diurnal), lemurs exhibit low visual acuity and high retinal summation. Lemurs can see a wider visual field, however, than anthropoid primates due to a slight difference in the angle between the eyes, as shown in the following table:
-      |                     | Angle between eyes    | Binocular field    | Combined field(binocular + periphery)    |
-      |---------------------|-----------------------|--------------------|------------------------------------------|
-      | Lemurs              | 10–15°                | 114–130°           | 250–280°                                 |
-      | Anthropoid primates | 0°                    | 140–160°           | 180–190°                                 |
+        |                     | Angle between eyes    | Binocular field    | Combined field(binocular + periphery)    |
+        |---------------------|-----------------------|--------------------|------------------------------------------|
+        | Lemurs              | 10–15°                | 114–130°           | 250–280°                                 |
+        | Anthropoid primates | 0°                    | 140–160°           | 180–190°                                 |
         Although they lack a fovea, some diurnal lemurs have a cone-rich, although less clustered, area centralis. This area centralis has a high rod-to-cone cell ratio in many diurnal species studied thus far, whereas diurnal anthropoids have no rod cells in their fovea. Once again, this suggests lower visual acuity in lemurs than in anthropoids. Furthermore, the rod-to-cone cell ratio can be variable even among diurnal species. For instance, Verreaux's sifaka (Propithecus verreauxi) and the indri (Indri indri) have only a few large cones scattered along their predominantly rod-dominated retina. The eyes of the ring-tailed lemur contain one cone to five rods. Nocturnal lemurs such as mouse lemurs and dwarf lemurs, on the other hand, have retinas made up entirely of rod cells.
     questions_and_answers:
       - question: |
