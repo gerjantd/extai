@@ -14,4 +14,8 @@ podman run -p 5001:5001 -e DOCLING_SERVE_ENABLE_UI=true quay.io/docling-project/
 
 Open the ui as indicated in the terminal output
 
+## SME UI
+
+https://ui.instructlab.ai/contribute/knowledge
+
 
